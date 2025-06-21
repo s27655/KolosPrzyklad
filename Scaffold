@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "[Connectionstring]" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models --context-dir Data -t [Nazwatabelki] -t [Nazwatabelki]
